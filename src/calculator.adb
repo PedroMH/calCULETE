@@ -5,6 +5,7 @@ package body Calculator with SPARK_Mode => On is
       Second_Operand : Integer) return Integer is
    begin
       return 0;
+      --willyrex un puto grande
    end Add;
 
    procedure Subtract
