@@ -1,0 +1,1 @@
+calculator.ads:8:09: warning: postcondition does not mention function result

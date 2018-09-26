@@ -1,0 +1,21 @@
+[GENERATED OBJECT FILE]
+b__test_calculator.o
+[PROJECT FILES]
+C:\Users\Pedro\Desktop\Clases\PR3\SPARK_Lab_02\calCULETE\default.gpr
+20180925084610
+[BOUND OBJECT FILES]
+C:\Users\Pedro\Desktop\Clases\PR3\SPARK_Lab_02\calCULETE\obj\calculator.o
+C:\Users\Pedro\Desktop\Clases\PR3\SPARK_Lab_02\calCULETE\obj\test_assertions.o
+C:\Users\Pedro\Desktop\Clases\PR3\SPARK_Lab_02\calCULETE\obj\test_calculator.o
+[GENERATED SOURCE FILES]
+b__test_calculator.ads
+b__test_calculator.adb
+b__test_calculator.ali
+[RESULTING OPTIONS]
+-LC:\Users\Pedro\Desktop\Clases\PR3\SPARK_Lab_02\calCULETE\obj\
+-LC:\Users\Pedro\Desktop\Clases\PR3\SPARK_Lab_02\calCULETE\obj\
+-LC:/gnat/2018/lib/gcc/x86_64-pc-mingw32/7.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2018/lib/gcc/x86_64-pc-mingw32/7.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

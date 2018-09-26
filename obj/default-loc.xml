@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Locations>
+  <Project>
+    <vfs_file>C:\Users\Pedro\Desktop\Clases\PR3\SPARK_Lab_02\default.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Pedro\Desktop\Clases\PR3\SPARK_Lab_02\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Pedro\Desktop\Clases\PR3\SPARK_Lab_02\src\calculator.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Pedro\Desktop\Clases\PR3\SPARK_Lab_02\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Pedro\Desktop\Clases\PR3\SPARK_Lab_02\src\calculator.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 39" line=" 16" >
+      <vfs_project>C:\Users\Pedro\Desktop\Clases\PR3\SPARK_Lab_02\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Pedro\Desktop\Clases\PR3\SPARK_Lab_02\src\calculator.ads</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 9" line=" 8" >
+      <vfs_project>C:\Users\Pedro\Desktop\Clases\PR3\SPARK_Lab_02\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Pedro\Desktop\Clases\PR3\SPARK_Lab_02\src\calculator.ads</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
