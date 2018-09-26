@@ -1,0 +1,7 @@
+calculator.adb:7:28: medium: overflow check might fail (e.g. when Add'Result = 0 and First_Operand = -2147483648 and Second_Operand = -1)[#2]
+calculator.adb:16:17: medium: precondition might fail (e.g. when First_Operand = -2147483648)[#3]
+calculator.adb:16:50: medium: overflow check might fail (e.g. when Result = 0 and Second_Operand = -2147483648)[#5]
+calculator.ads:7:33: medium: overflow check might fail (e.g. when First_Operand = -2147483648 and Second_Operand = -1)[#4]
+calculator.ads:8:33: medium: overflow check might fail (e.g. when First_Operand = -2147483648 and Second_Operand = 1)[#6]
+calculator.ads:20:33: medium: overflow check might fail (e.g. when First_Operand = -2147483648 and Second_Operand = 1)[#1]
+calculator.ads:21:33: medium: overflow check might fail (e.g. when First_Operand = -2147483648 and Second_Operand = -1)[#0]

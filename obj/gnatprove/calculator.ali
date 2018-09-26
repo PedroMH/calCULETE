@@ -1,0 +1,41 @@
+V "GNAT Lib v2018"
+A -x
+A ada
+A -gnatA
+A -g
+A -gnato
+A -fstack-check
+A -gnata
+A -gnat12
+A -gnatc
+P GP FX
+
+RN
+RV NO_IMPLEMENTATION_PRAGMAS
+RV NO_ELABORATION_CODE
+
+U calculator%b		calculator.adb		8c9b27fb OO PK
+
+U calculator%s		calculator.ads		04b1d4a6 OO PK
+
+D calculator.ads	20180926125752 04b1d4a6 calculator%s
+D calculator.adb	20180926124700 882af35d calculator%b
+D system.ads		20180524051738 32a08138 system%s
+X 1 calculator.ads
+1K9*Calculator 26l5 26e15 2|1b14 19l5 19t15
+3V13*Add{integer} 4>7 5>7 9r14 2|3b13 9l8 9t11 16s17
+4i7 First_Operand{integer} 7r19 8r19 9r27 2|4b7 7r14
+5i7 Second_Operand{integer} 7r35 8r35 9r43 2|5b7 7r30
+15U14*Subtract 16>7 17>7 18<7 2|11b14 17l8 17t16
+16i7 First_Operand{integer} 20r19 21r19 22r26 2|12b7 16r21
+17i7 Second_Operand{integer} 20r35 21r35 22r42 2|13b7 16r35
+18i7 Result{integer} 22r17 2|14b7 16m7
+
+QQ SPARKVERSION 2018 (20180523)
+GG EK_DIRECT_CALLS calculator__add 0
+GG EK_GLOBALS calculator__add local FALSE E_FUNCTION FALSE ORIGIN_FLOW proper_proof_in 0 proper_input 0 proper_output 0 refined_proof_in 0 refined_input 0 refined_output 0 calls_proof 0 calls 0 calls_conditional 0 local_var 0 FALSE FALSE TRUE ENTRY_CALLS 0 SUSPENDS_ON 0 UNSYNCH_ACCESSES 0 LOCKS 0
+GG EK_DIRECT_CALLS calculator__subtract 1 calculator__add
+GG EK_GLOBALS calculator__subtract local FALSE E_PROCEDURE FALSE ORIGIN_FLOW proper_proof_in 0 proper_input 0 proper_output 0 refined_proof_in 0 refined_input 0 refined_output 0 calls_proof 0 calls 0 calls_conditional 0 local_var 0 FALSE FALSE TRUE ENTRY_CALLS 0 SUSPENDS_ON 0 UNSYNCH_ACCESSES 0 LOCKS 0
+GG EK_DIRECT_CALLS calculator 0
+GG EK_GLOBALS calculator local FALSE E_PACKAGE TRUE ORIGIN_FLOW proper_proof_in 0 proper_input 0 proper_output 0 refined_proof_in 0 refined_input 0 refined_output 0 initializes 0 calls_proof 0 calls 0 calls_conditional 0 local_var 0 FALSE FALSE FALSE ENTRY_CALLS 0 SUSPENDS_ON 0 UNSYNCH_ACCESSES 0 LOCKS 0
+GG EK_END_MARKER

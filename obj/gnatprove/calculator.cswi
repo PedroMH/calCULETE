@@ -1,0 +1,12 @@
+20180926125802
+-c
+-x
+ada
+-gnatA
+-g
+-gnato
+-fstack-check
+-gnata
+-gnat12
+-gnatc
+-gnates=C:\Users\Pedro\Desktop\Clases\PR3\SPARK_Lab_02\calCULETE\obj\gnatprove\3f83bd4e.tmp
